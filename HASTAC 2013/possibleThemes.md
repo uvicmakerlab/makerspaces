@@ -1,18 +1,18 @@
 ## Possible Themes for the HASTAC 2013 Makerspace
 
-"Tangible Futures"
-"Possible Futures" 
-"Immediate Futures" -- immediacy = the present, now, at-hand; tangible;
-"Future Shifts"
-"Temporal Shifts"
-"(A)Temporal Shifts"
-"Made Realities" 
-"Made Future"
-"Present Made"
-"The Made Present"
-"Futures Made Present"
-"Futures Made Tangible" (<<< Jentery's liking this one) 
-"Made for Now" 
+* "Tangible Futures"
+* "Possible Futures" 
+* "Immediate Futures" -- immediacy = the present, now, at-hand; tangible;
+* "Future Shifts"
+* "Temporal Shifts"
+* "(A)Temporal Shifts"
+* "Made Realities" 
+* "Made Future"
+* "Present Made"
+* "The Made Present"
+* "Futures Made Present"
+* "Futures Made Tangible" (<<< Jentery's liking this one) 
+* "Made for Now" 
 
 Bruce Sterling on Atemporality --> "Outside the timestream with the prepostmodern archaeofuturistic." [http://www.flickr.com/photos/brucesterling/sets/72157619722832388/](http://www.flickr.com/photos/brucesterling/sets/72157619722832388/)
 
