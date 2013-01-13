@@ -58,7 +58,7 @@
 
 * Playstation Webcams
 
-##Software:
+##Software
 
 * Processing
 * Arduino IDE
